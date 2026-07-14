@@ -95,6 +95,8 @@
 
 ###
 
+<br clear="both">
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-2028/abhi-2028/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi-2028/abhi-2028/pacman-output/pacman-contribution-graph.svg?game=pacman">
