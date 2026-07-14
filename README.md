@@ -1,6 +1,4 @@
-<br clear="both">
-
-<img data-importer="image" align="right" height="232" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img data-importer="image" align="right" height="175" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -85,7 +83,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="center">🔥   My Stats :</h3>
 
 ###
 
